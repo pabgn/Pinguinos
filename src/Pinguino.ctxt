@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=j\ cx\ cy
+comment0.target=Pinguino(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getJugador()
+comment10.params=v
+comment10.target=void\ setVivo(boolean)
+comment11.params=x\ y\ tablero
+comment11.target=boolean\ esMovimientoLegal(int,\ int,\ int[][])
+comment2.params=
+comment2.target=int\ getPeces_comidos()
+comment3.params=
+comment3.target=int\ getCasillaX()
+comment4.params=
+comment4.target=int\ getCasillaY()
+comment5.params=
+comment5.target=boolean\ getVivo()
+comment6.params=j
+comment6.target=void\ setJugador(int)
+comment7.params=p
+comment7.target=void\ setPeces_comidos(int)
+comment8.params=cx
+comment8.target=void\ setCasillaX(int)
+comment9.params=cy
+comment9.target=void\ setCasillaY(int)
+numComments=12
